@@ -6,12 +6,10 @@ Click on the links below to open these notebooks in Colaboratory
 
 * [02-dogs_vs_cats.ipynb](https://colab.research.google.com/github/karlafej/keras_pyconCZ/blob/master/02-dogs_vs_cats.ipynb)- Utilizes VGG16 model for transfer learning on Kaggle Dogs vs. Cats dataset
 
-* 03-???.ipynb - Other transfer learning (now your turn)
+* Other transfer learning (your turn)
     * [03-Simpsons.ipynb](https://colab.research.google.com/github/karlafej/keras_pyconCZ/blob/master/03-Simpsons.ipynb)
     * [03-flowers.ipynb](https://colab.research.google.com/github/karlafej/keras_pyconCZ/blob/master/03-flowers.ipynb)
 
 * [04-Nietzsche_text_generation.py](https://colab.research.google.com/github/karlafej/keras_pyconCZ/blob/master/04-Nietzsche_text_generation.ipynb) - Generates text from Nietzsche's writings using LSTM
 
-* 05-???.ipynb - Other text generation (now your turn)
-
-* 06-???.ipynb - Deploying model (to the cloud or JS)
+* 05-???.ipynb - Other text generation (your turn)
