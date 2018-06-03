@@ -12,4 +12,4 @@ Click on the links below to open these notebooks in Colaboratory
 
 * [04-Nietzsche_text_generation.ipynb](https://colab.research.google.com/github/karlafej/keras_pyconCZ/blob/master/04-Nietzsche_text_generation.ipynb) - Generates text from Nietzsche's writings using LSTM
 
-* [05-Your_text_generation.ipynb](https://colab.research.google.com/github/karlafej/keras_pyconCZ/blob/master/04-Your_text_generation.ipynb) - Other text generation (your turn)
+* [05-Your_text_generation.ipynb](https://colab.research.google.com/github/karlafej/keras_pyconCZ/blob/master/05-Your_text_generation.ipynb) - Other text generation (your turn)
